@@ -1,7 +1,5 @@
 ## Dataset Link:
-https://drive.google.com/drive/folders/1wrbwT-G9HBjpiVDR6h2l3ZKDRCkQ1CeG?usp=sharing
-
-# Fake-News-Detection
+[Click Here](https://drive.google.com/drive/folders/1wrbwT-G9HBjpiVDR6h2l3ZKDRCkQ1CeG?usp=sharing)
 
 # Fake News Detection
 
@@ -27,7 +25,6 @@ The dataset includes various textual features extracted from news articles, prov
 
 The textual data undergoes preprocessing techniques, including:
 - Tokenization
-- Stemming
 
 These techniques are applied to transform the raw text data into a format suitable for machine learning algorithms.
 
@@ -44,4 +41,4 @@ Logistic Regression, a powerful classification algorithm, is utilized to train t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/vansh-0108/Fake-News-Detection.git
