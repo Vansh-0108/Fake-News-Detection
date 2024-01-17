@@ -12,9 +12,6 @@ This project focuses on detecting fake news using Machine Learning techniques. T
 - [Preprocessing Techniques](#preprocessing-techniques)
 - [TF-IDF Vectorization](#tf-idf-vectorization)
 - [Machine Learning Algorithm](#machine-learning-algorithm)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -35,9 +32,3 @@ The TfidfVectorizer is employed to convert raw text data into numerical features
 
 Logistic Regression, a powerful classification algorithm, is utilized to train the model. The model learns to differentiate between genuine and fake news based on patterns and feature representations derived from the preprocessed textual data.
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/vansh-0108/Fake-News-Detection.git
