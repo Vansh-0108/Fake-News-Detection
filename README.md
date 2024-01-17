@@ -1,11 +1,10 @@
-## Dataset Link:
-[Click Here](https://drive.google.com/drive/folders/1wrbwT-G9HBjpiVDR6h2l3ZKDRCkQ1CeG?usp=sharing)
 
 # Fake News Detection
+### Dataset Link: [Click Here](https://drive.google.com/drive/folders/1wrbwT-G9HBjpiVDR6h2l3ZKDRCkQ1CeG?usp=sharing)
 
 ## Overview
 
-This project focuses on detecting fake news using machine learning techniques. The dataset comprises textual features extracted from news articles, encompassing linguistic patterns and content-related attributes.
+This project focuses on detecting fake news using Machine Learning techniques. The dataset comprises textual features extracted from news articles, encompassing linguistic patterns and content-related attributes.
 
 ## Table of Contents
 
